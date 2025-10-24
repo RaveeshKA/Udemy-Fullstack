@@ -1,0 +1,15 @@
+{
+  "name": "superhero",
+  "version": "1.0.0",
+  "description": "My first NPM program",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raveesh KA",
+  "license": "ISC",
+  "dependencies": {
+    "superhero": "^2.14.31"
+  }
+}
